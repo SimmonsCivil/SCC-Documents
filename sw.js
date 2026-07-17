@@ -1,6 +1,6 @@
 /* Simmons Civil Inspections — service worker (offline shell + auto-update)
    Bump SW_VERSION on every deploy to push an update to installed devices. */
-const SW_VERSION = 'scc-v1.0.9';
+const SW_VERSION = 'scc-v1.0.11';
 const CORE = [
   './', './index.html', './manifest.webmanifest',
   './assets/simmons-logo.png',
